@@ -1,0 +1,13 @@
+.messageTextUser2 {
+  background-color: #77c5fd;
+  border-radius: 8px;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  position: absolute;
+  top: 150px;
+  left: 30px;
+  color: #f7f7f7;
+  line-height: 25px;
+  text-align: left;
+}
